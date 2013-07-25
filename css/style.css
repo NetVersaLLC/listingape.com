@@ -327,7 +327,7 @@ p
 	text-decoration:none;
 }
 hr{ border-bottom:2px solid #515151; border-top:none;}
-.boxL { float:left;margin:90px 40px 0px 15px;width:290px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
+.boxL { float:left;margin:40px 40px 0px 15px;width:290px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .boxC { float:left;margin:25px 10px 0px 0px;width:260px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .boxR { float:left;margin:25px 0px 0px 0px;width:280px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .pricing
