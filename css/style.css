@@ -2,10 +2,13 @@
 /* CSS Document */
 body
 {
-	margin:0px;
-	padding:0px;
-	background-color:#e7eef0;
-	font-family:Segoe UI;
+	margin:0px;padding:0px;
+	background-image:url(../images/main-bg.jpg);
+	background-color:#e5edef;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:20px;
+	color:#6a6a6a;
 }
 .clear { clear:both;}
 #main
@@ -123,6 +126,7 @@ body
 	color:#FFFFFF;
 	font-weight:normal;
 	margin-left:73px;
+
 }
 .midcontant
 {
@@ -175,7 +179,6 @@ body
 	width:650px;
 	font-size:14px;
 	color:#6a6a6a;
-	font-weight:600;
 	margin:5px 0px 0px 18px;
 	text-align:justify;
 }
@@ -184,7 +187,6 @@ p
 	width:933px;
 	font-size:14px;
 	color:#6a6a6a;
-	font-weight:600;
 	margin:5px 0px 0px 24px;
 	text-align:justify;
 	line-height:20px;
@@ -273,7 +275,7 @@ p
 .footermenu
 {
 	margin:0 auto;
-	width:800px;
+	width:980px;
 	text-align:center;
 }
 .footermenu ul li
@@ -327,13 +329,13 @@ p
 	text-decoration:none;
 }
 hr{ border-bottom:2px solid #515151; border-top:none;}
-.boxL { float:left;margin:40px 40px 0px 15px;width:290px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
+.boxL { float:left;margin:40px 40px 0px 31px;width:290px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .boxC { float:left;margin:25px 10px 0px 0px;width:260px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .boxR { float:left;margin:25px 0px 0px 0px;width:280px; font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:22px; color:#225475; }
 .pricing
 {
 	width:980px;
-	height:405px;
+	height:410px;
 	background-color:#eff9fc;
 	border-bottom:5px solid #e6f5fa;
 }
@@ -347,7 +349,7 @@ hr{ border-bottom:2px solid #515151; border-top:none;}
 
 
 .centertext { width:322px; float:left; text-align:center; }
-.centertext .text{ margin-top:-2px; margin-left:66px; width:249px; text-align:left; }
+.centertext .text{ margin-top:-2px; margin-left:30px; width:249px; text-align:left; }
 .centertext .text ul { margin-left:30px; padding:0px; color:#4b4b4b; font-size:14px; font-weight:bold; text-align:left;  }
 .centertext .text ul li { list-style-image:url(../images/true.png); padding:3px;font-size:14px; text-align:left; }
 
@@ -382,13 +384,66 @@ hr{ border-bottom:2px solid #515151; border-top:none;}
 	font-size:22px;
 	color:#002048;
 	font-weight:bold;
+	line-height:38px;
 }
 .text_2
 {
-	font-size:18px;
+	font-size:16px;
 	color:#226991;
 	font-weight:bold;
 }
 .line { border-left:1px solid #dfe7ea; height:255px; float:left; margin:113px 1px 1px 5px;}
+
+.go
+{
+	width:107px; height:35px; border:0px; background:none; cursor:pointer; background:url(../images/submit-btn.png) no-repeat;
+}
 	
+.perew
+{	
+	width:933px;
+	font-size:14px;
+	color:#6a6a6a;
+	margin:5px 0px 0px 24px;
+	text-align:justify;
+	line-height:20px;
+	list-style-image:url(../images/true.png);
+}
+.headingss
+{
+	margin:10px 0px 0px 24px;
+	width:933px;
+	font-size:18px;
+	font-weight:bold;
+	color:#504e4e;
+	line-height:30px;
+}
+.contactform
+{
+	margin:10px 5px 0px 24px;
+	width:537px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#6a6a6a;
+}
+.contactbg
+{
+	background-image:url(../images/contact-bg.png);
+	background-repeat:repeat-y;
+}
+.textbox
+{
+	background:url(../images/textbox.png) no-repeat transparent;
+	padding-left:5px;
+	width:276px;
+	height:34px;
+	border:0px;
+}
+textarea
+{
+	width:270px;
+	height:90px;
+}
+
 	
