@@ -342,7 +342,7 @@ hr{ border-bottom:2px solid #515151; border-top:none;}
 .leftblueboxstrip { width:322px; float:left; margin:30px 0px 0px -10px;  }
 .leftblueboxstrip img { float:left; width:300px; }
 .leftblueboxstrip div{ position:absolute; width:270;  }
-.title5{ font-size:22px;color:#FFFFFF;font-weight:bold; margin:8px 0px 0px 20px; }
+.title5{ font-size:22px;color:#FFFFFF;font-weight:bold; margin:15px 0px 0px 20px; }
 .text5{ margin-top:75px; margin-left:35px; width:249px; }
 .leftblueboxstrip .text5 ul { margin-left:30px; padding:0px; color:#4b4b4b; font-size:14px; font-weight:bold;  }
 .leftblueboxstrip .text5 ul li { list-style-image:url(../images/true.png); padding:3px;font-size:14px;  }
@@ -355,7 +355,7 @@ hr{ border-bottom:2px solid #515151; border-top:none;}
 
 .rightblueboxstrip { width:322px; float:right; margin:30px -20px 0px 0px; }
 .rightblueboxstrip img { float:left; }
-.title6{ font-size:22px;color:#FFFFFF;font-weight:bold;position:absolute; margin:10px 0px 0px 34px; }
+.title6{ font-size:22px;color:#FFFFFF;font-weight:bold;position:absolute; margin:15px 0px 0px 34px; }
 .rightblueboxstrip .text{ position:absolute; width:276px; text-align:center; margin:145px 0px 0px 5px; color:#0193cb; font-size:24px; font-weight:bold; }
 .imgr
 {
