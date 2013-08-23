@@ -24,7 +24,7 @@ body
 .call
 {
 	float:right;
-	margin:30px 0px 0px 5px;
+	margin:18px 0px 0px 5px;
 	text-transform:uppercase;
 	font-size:20px;
 	font-weight:bold;
@@ -33,6 +33,16 @@ body
 .call2
 {
 	color:#01151e;
+}
+.follow
+{
+	float:right;
+	margin:50px -289px 0 0;
+	
+}	
+.follow img 
+{
+	border:0px;
 }
 .menu
 {
@@ -48,7 +58,7 @@ body
 .menu ul li
 {
 	list-style:none;
-	padding:12px 20px;
+	padding:12px 18px;
 	float:left;
 	text-decoration:none;
 	border-right:2px solid #013156;
@@ -61,24 +71,17 @@ body
 	list-style:none;
 	text-decoration:none;
 	text-transform:uppercase;
-	font-size:14px;
 	color:#FFF;
 	font-weight:bold;
 }
 .menu ul li:hover
 {
-	list-style:none;
-	padding:12px 20px;
-	float:left;
-	text-decoration:none;
-	border-right:2px solid #013156;
 	background-color:#01151e;
-	font-size:14px;
 }
 .menu .active
 {
 	list-style:none;
-	padding:12px 20px;
+	padding:12px 18px;
 	float:left;
 	text-decoration:none;
 	border-right:2px solid #013156;
@@ -286,7 +289,7 @@ p
 	font-size:14px;
 	list-style:none;
 	height:40px;
-	padding:10px 25px 0px 0px;
+	padding:10px 19px 0px 0px;
 }
 .footermenu ul li a
 {	
@@ -308,7 +311,7 @@ p
 	font-size:14px;
 	color:#274d6b;
 	font-weight:bold;
-	padding-left:25px;
+	padding-left:22px;
 }
 .tootertext
 {
