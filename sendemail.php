@@ -14,7 +14,7 @@ $email               = $_POST['email'];
 $comments            = $_POST['comments'];
 
 
-$to = 'andy@mnstechnologies.com';
+$to = 'webform@listingape.com';
 $from = $email;
 $subject = 'Listingape (WEB LEAD)';
 $message = "Full Name: " . $first_name." ".$last_name . "<br />Email: " . $email . "<br />Phone: " . $phone . "<br />Comments: " . $comments;
