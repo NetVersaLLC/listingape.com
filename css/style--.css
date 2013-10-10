@@ -473,7 +473,8 @@ textarea
 .contentbox { float:left;font-family:Arial, Helvetica, sans-serif;font-size:14px; width:900px; text-align:justify;}
 .contentbox img {margin-top:10px;float:left;margin-right:15px; }
 .contentbox p{font-family:Arial, Helvetica, sans-serif;font-size:23px; color:#024761; margin-bottom:15px;}
-	
+
+
 #singup { width:980px;}
 .centerboxsignup { float:left;font-size:18px;margin-top:100px;}
 
@@ -501,4 +502,24 @@ textarea
 .form1{ width:982px;margin:0px auto;}
 .form1 input[type="text"], .form1 input[type="password"] { border:1px solid #CCCCCC;width:345px;font-size:14px;padding:8px 2px;font-family:Arial, Helvetica, sans-serif;color:#999999;font-weight:normal; margin-bottom:10px; }
 
+.leftblueboxstrip { width:41px; float:left; background:#ffffff; margin-right:9px; padding-bottom:15px; }
+.leftblueboxstrip img { float:left; width:300px; }
+.leftblueboxstrip div{ position:absolute; width:270px; margin:25px 0px 0px 20px; }
+.leftblueboxstrip .title{ font-size:22px;color:#FFFFFF;font-weight:bold; }
+.leftblueboxstrip .text{ margin-top:90px; }
+.leftblueboxstrip .text ul { margin-left:30px; padding:0px;  }
+.leftblueboxstrip .text ul li { list-style-image:url(../images/true.png); padding:3px;font-size:14px;  }
+.greenbox .text ul li { list-style-image:url(../images/true_green.png); font-size:14px;  }
+.leftblueboxstrip .bottomtext{ color:#FFFFFF; font-size:20px; text-align:center;margin:13px 0px 0px 0px;}
 
+.centertext { width:32%; float:left; text-align:center; }
+
+.rightblueboxstrip { width:441px; float:left; background:#ffffff; margin-right:9px; padding-bottom:15px; }
+.rightblueboxstrip img { float:left; }
+.rightblueboxstrip .title{ font-size:22px;color:#FFFFFF;font-weight:bold;position:absolute; margin:28px 0px 0px 90px; }
+.rightblueboxstrip .text{ margin-top:90px;position:absolute; width:276px; margin-left:28px;}
+.rightblueboxstrip .text ul { margin-left:30px; padding:0px;  }
+.rightblueboxstrip .text ul li { list-style-image:url(../images/true.png); padding:3px;font-size:14px;  }
+.greenbox .text ul li { list-style-image:url(../images/true_green.png); padding:4px;font-size:14px;  }
+.rightblueboxstrip .bottomtext{ color:#FFFFFF; font-size:20px; text-align:center; margin:23px 0px 0px -10px; width:262px;}	
+.imgsing{margin-top:10px;}
