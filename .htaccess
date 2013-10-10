@@ -1,0 +1,5 @@
+RewriteEngine On
+
+Redirect 301 /contact_us.html http://listingape.com/contact_us.php
+
+
